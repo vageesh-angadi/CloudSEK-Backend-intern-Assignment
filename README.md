@@ -4,8 +4,11 @@ Clone the repository: using git clone https://github.com/vageesh-angadi/CloudSEK
 ### cd CloudSEK-Backend-intern-Assignment
 ### install following dependencies
 Node
+
 Express
+
 Mongoose
+
 React
 
 using npm install dependency_name
@@ -18,9 +21,11 @@ using npm install dependency_name
 ## how to run
 ### Start the server
 cd BackEnd
+
 npm start
 
 ### Start the client
 cd FrontEnd/my-app
+
 npm start
 
