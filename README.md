@@ -10,8 +10,9 @@ React
 
 using npm install dependency_name
 
-## project structure
+# project structure
 /FrontEnd/my-app    ----> client(React)
+
 /BackEnd  -----> server(node,express)
 
 ## how to run
