@@ -1,7 +1,7 @@
 ## Getting Started
 Clone the repository: using git clone https://github.com/vageesh-angadi/CloudSEK-Backend-intern-Assignment.git
-
-### cd CloudSEK-Backend-intern-Assignment
+ 
+cd CloudSEK-Backend-intern-Assignment
 ### install following dependencies
 Node
 
