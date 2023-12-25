@@ -12,7 +12,7 @@ dotenv.config()
 // DB connection
 const connect=async ()=>{
     try{
-        await mongoose.connect(process.env.MONGO);
+        await mongoose.connect(process.env.MONGO); // connect to mongodb 
         console.log("connected to db");
     } catch(error) {
         throw error;
@@ -32,6 +32,6 @@ app.use(bodyParser.json());
 app.use('/api/posts', postRoutes);
 
 app.listen(PORT, () => {
-    connect();
+    connect();  
   console.log(`Server is running on port ${PORT}`);
 });
