@@ -3,10 +3,10 @@ Clone the repository: using git clone https://github.com/vageesh-angadi/CloudSEK
 
 ### cd CloudSEK-Backend-intern-Assignment
 ### install following dependencies
-Node
-Express
-Mongoose
-React
+####Node
+####Express
+####Mongoose
+####React
 
 using npm install dependency_name
 
